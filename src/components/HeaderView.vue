@@ -12,7 +12,7 @@
 					<nav>
             <div class="UpperNav">
                 <div class = "navContainer">
-                    <a href="">AvatarNFT</a>
+                    <a href="">AvatarNF T</a>
                     <a href="">MarketPlace</a>
                     <a href="">My NFT</a> 
                 </div>
