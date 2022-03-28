@@ -16,22 +16,22 @@
    
 }
 
-.UpperNav a{
+.UpperNav p{
     margin-left: 10px;
     text-decoration: none;
     font-size: 30px;
 }
 
-.UpperNav a:link{
+.UpperNav p:link{
     color: white;
 }
 
-.UpperNav a:visited{
+.UpperNav p:visited{
     color: black;
 }
 
-.UpperNav a:hover{
-    color: skyblue;
+.UpperNav p:hover{
+    color: rgb(252, 138, 46);
 }
 
 .TradeButton{
